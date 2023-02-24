@@ -1,0 +1,9 @@
+name: PocketDim
+version: '${project.version}'
+main: plugin.pocketdim.PocketDim
+api-version: 1.19
+
+commands:
+  pdset:
+    description: Create a your own pocket dimension!
+    usage: /<command>
